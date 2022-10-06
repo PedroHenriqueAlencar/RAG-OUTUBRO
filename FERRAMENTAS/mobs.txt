@@ -1,0 +1,192 @@
+Mobs Konoha:
+Kon01
+
+Fumacento (id: 1056) ~ Guaxinim
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    neutro   Raça:    Bruto
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+Couro de Animal (id: 919), valor 5z, chance 100%
+http://www.ragnadb.com.br/img/monstro/1056/fumacento.gif 
+
+Koko (id: 1104) - Esquilo
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    neutro   Raça:    Bruto
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+Avelã (id: 1026), valor 5z, chance 100%
+
+Yoyo (id: 1057) ~ Macaco
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    neutro    Raça:    Bruto
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+ Cauda de Yoyo (id: 942), valor 5z, chance 100%
+
+Kon02
+Leshij (id: 1880) ~ Defensor da folha
+EXP:    100   DEF:    0    ATK:    59~72    DEX:    20    INT:    20
+JEXP:    50    MDEF:    10    AGI:    20    VIT:    20    LUK:    20
+HP:    400    Propriedade:    neutro    Raça:    Planta
+Drops:
+Pergaminho Desgastado (id: 618), valor 20z chance: 80%
+Galho Seco (id: 604), valor 15z
+chance 90% 
+
+Atirador de Pedras (id: 1495) ~ Guardião da folha
+EXP:    130   DEF:    0    ATK:    60~80    DEX:    20    INT:    20
+JEXP:    60    MDEF:    10    AGI:    20    VIT:    20    LUK:    20
+HP:    500    Propriedade:   neutro    Raça:    Planta
+Drops:
+Pergaminho Desgastado (id: 618), valor 20z chance: 80%
+Tora (id: 7201), valor 20z
+chance 90% 
+
+Kon03
+Yakuza (id: 1313) ~ Bandido da Floresta
+EXP:    700   DEF:    0    ATK:    190~220    DEX:    56    INT:    15
+JEXP:    250    MDEF:    10    AGI:    30    VIT:    30   LUK:    20
+HP:    400    Propriedade:    neutro    Raça:    humanoide
+Drops:
+Cartaz de procurado (id:7844), valor 30z, chance: 70%
+Adaga de bandido (id: 1232), valor 50z: chance: 90%
+
+Zipper (id: 1417) ~ Urso
+EXP:    500   DEF:    0    ATK:    150~170    DEX:    56    INT:    15
+JEXP:    200    MDEF:    10    AGI:    30    VIT:    30   LUK:    20
+HP:    400    Propriedade:    neutro    Raça:    bruto
+Drops:
+Pele de Urso (id: 7161): valor 40z, chance 80%
+
+NEVOA
+
+Nev01
+
+Fen (id: 1158) ~ Peixe 
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    neutro    Raça:    peixe
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+Escama de peixe (id: 959), valor 5z, chance 100%
+
+Vadon (id: 1066) ~ Crustáceo
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    neutro   Raça:    peixe
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+Garra de Crustáceo (id: 960), valor 5z, chance 100%
+
+
+Polvo pequeno (id: 2192)
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    neutro   Raça:    peixe
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+Tentáculo (id: 962), valor 5z, chance 100%
+
+Nev02
+Ryncho (id: 2020) ~ Defensor da Névoa
+EXP:    100   DEF:    0    ATK:    59~72    DEX:    20    INT:    20
+JEXP:    50    MDEF:    10    AGI:    20    VIT:    20    LUK:    20
+HP:    400    Propriedade:    neutro    Raça:    amorfo
+Drops:
+Pergaminho Desgastado (id: 618), valor 20z chance: 80%
+Líquido Fluorescente (id: 7326), valor 15z
+chance 90%
+
+Elemental da Água (id: 2016) ~ Guardião da Névoa 
+EXP:    130   DEF:    0    ATK:    60~80    DEX:    20    INT:    20
+JEXP:    60    MDEF:    10    AGI:    20    VIT:    20    LUK:    20
+HP:    500    Propriedade:    neutro    Raça:    amorfo
+Drops:
+Pergaminho Desgastado (id: 618), valor 20z chance: 80%
+Lágrima Cristalizada (id: 6075), valor 20z
+chance 90%
+
+Nev03
+Byorgue (id: 1839) ~ Pirata
+EXP:    700   DEF:    0    ATK:    190~220    DEX:    56    INT:    15
+JEXP:    250    MDEF:    10    AGI:    30    VIT:    30   LUK:    20
+HP:    400    Propriedade:    neutro    Raça:    humanoide
+Drops:
+Cartaz de procurado (id:7844), valor 30z, chance: 70%
+Espada enferrujada (id: 7110), valor 50z: chance: 90%
+
+Caranguejo (id: 1073)
+EXP:    500   DEF:    0    ATK:    150~170    DEX:    56    INT:    15
+JEXP:    200    MDEF:    10    AGI:    30    VIT:    30   LUK:    20
+HP:    400    Propriedade:    neutro    Raça:    peixe
+Drops:
+Casco de Caranguejo (id: 964), valor 40z, chance 80%
+
+SUNA
+
+Sun01
+Frilldora (id: 1119) ~ Camaleão
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    vento1    Raça:    Bruto
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+
+Condor (id: 1009)
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    vento1    Raça:    Bruto
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+
+Escorpião (id: 1001)
+EXP:    10    DEF:    0    ATK:    10~20    DEX:   10    INT:    10
+JEXP:    2    MDEF:    0    AGI:    10    VIT:    10    LUK:    10
+HP:    60    Propriedade:    vento1    Raça:    Bruto
+Drops:
+Sangue de Animal (id: 702), valor 5z, chance 90%
+
+Sun02
+
+Muka (id: 1055) ~ Defensor da areia
+EXP:    100   DEF:    0    ATK:    59~72    DEX:    20    INT:    20
+JEXP:    50    MDEF:    10    AGI:    20    VIT:    20    LUK:    20
+HP:    400    Propriedade:    Vento4    Raça:   Planta
+Drops:
+Pergaminho Desgastado (id: 618), valor 20z chance: 80%
+Espinho de Cacto (id: 952), valor 15z
+chance 90%
+
+Arenoso (id: 1165) ~ Guardião da Areia
+EXP:    130   DEF:    0    ATK:    60~80    DEX:    20    INT:    20
+JEXP:    60    MDEF:    10    AGI:    20    VIT:    20    LUK:    20
+HP:    500    Propriedade:    Vento4    Raça:    Amorfo
+Drops:
+Pergaminho Desgastado (id: 618), valor 20z chance: 80%
+Torrão de Areia (id: 1056), valor 20z chance: 90%
+
+Grit
+
+Sun03
+
+Dandelion (id: 1985) ~ Bandido do Deserto
+EXP:    700   DEF:    0    ATK:    190~220    DEX:    56    INT:    15
+JEXP:    250    MDEF:    10    AGI:    30    VIT:    30   LUK:    20
+HP:    400    Propriedade:    vento   Raça:    humanoide
+Drops:
+Carta ensanguentada (id: 7643) ~ Cartaz de procurado, valor 30z chance: 80%
+Adaga do Algoz (id: 1232) ~~ Adaga do deserto, valor 50z chance: 90%
+
+Comodo (id: 2152) ~ Lagarto
+EXP:    500   DEF:    0    ATK:    150~170    DEX:    56    INT:    15
+JEXP:    200    MDEF:    10    AGI:    30    VIT:    30   LUK:    20
+HP:    400    Propriedade:    vento    Raça:    amorfo
+
+
+
+
+
+
